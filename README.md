@@ -60,7 +60,7 @@ ST5041CMD/
 │
 │── data/                     → Runtime storage: database, raw logs, GeoIP file (non-commited)
 │
-│── decoy/                    → Publi fake site that logs and classifies every request
+│── decoy/                    → Public fake site that logs and classifies every request
 │ │── response/               → Fake files served to attackers (.env, config.php, robots.txt)
 │ │── static/                 → CSS for the fake pages
 │ │── templates/              → Fake pages (admin login, phpMyAdmin, search, 404)
