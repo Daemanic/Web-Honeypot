@@ -1,6 +1,6 @@
 WEB-HONEYPOT (EDUCATIONAL)
 
-> Version 1.0 - October, 2026
+Version 1.0 - October, 2026
 
 Copyright © 2026 Aditya Shrestha (@daemanic). All rights reserved, except for the permissions expressly granted below.
 
@@ -17,20 +17,20 @@ Modifications may include bug fixes, additional features, interface improvements
 
 4. Redistribution and Sharing
 Users may redistribute the original project or modified versions free of charge, provided that they:
-* Give appropriate credit to the original Web-Honeypot project and its author.
-* Retain this license and the applicable copyright notices.
-* Clearly identify significant modifications made to the original project.
-* Do not impose additional restrictions that prevent recipients from exercising the permissions granted by this license.
-* Do not sell, commercially distribute, or use the project for commercial purposes without pior written permission from the copyright holder.
+    * Give appropriate credit to the original Web-Honeypot project and its author.
+    * Retain this license and the applicable copyright notices.
+    * Clearly identify significant modifications made to the original project.
+    * Do not impose additional restrictions that prevent recipients from exercising the permissions granted by this license.
+    * Do not sell, commercially distribute, or use the project for commercial purposes without pior written permission from the copyright holder.
 
 5. Prohibition of Commercial Use
 Commercial use of this project is prohibited without prior written permission from the copyright holder.
 Prohibited activites include, but are not limited to:
-* Selling the original or modified source code.
-* Charging a fee for copies, downloads, or access to the project.
-* Incorporating the project into a paid product or service.
-* Licensing or sublicensing the project for commercial exploitation.
-* Using the project as part of a commercial offering in a manner that exploits the rights granted under this license.
+    * Selling the original or modified source code.
+    * Charging a fee for copies, downloads, or access to the project.
+    * Incorporating the project into a paid product or service.
+    * Licensing or sublicensing the project for commercial exploitation.
+    * Using the project as part of a commercial offering in a manner that exploits the rights granted under this license.
 Requests for commercial use may be submitted to the copyright holder for separate consideration and written authorization.
 
 6. Attribution
