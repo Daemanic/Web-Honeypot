@@ -1,63 +1,75 @@
-WEB-HONEYPOT (EDUCATIONAL)
+WEB-HONEYPOT (EDUCATIONAL) - NON-COMMERCIAL LICENSE
 
-Version 1.0 - October, 2026
+Version 1.1 - October 2026
 
 Copyright © 2026 Aditya Shrestha (@daemanic). All rights reserved, except for the permissions expressly granted below.
 
-1. Purpose
+1. Purpose and Definitions
 Web-Honeypot is a college educational project developed for learning, academic research, experimentation, and demonstration of web honeypot technologies and related security concepts.
 This license is intended to make the project freely available for educational and non-commercial purposes while protecting it against unauthorized commercial exploitation.
+This is a custom license. It is not an open-source license as defined by the Open Source Initiative.
+'Project' means the source code, tests, scripts, documentation, and other files in this repository.
+'Commercial use' means use primarily intended for commercial advantage or monetary compensation. This includes use in a paid product or service, use inside a for-profit business, consulting or paid training that includes the Project, and charging a fee for the Project itself.
+Use in teaching, study, or research at a school, university, or similar educational institution is not commercial use, even if the institution charges tuition.
 
-2. Permission to use
-Permission is hereby granted to any individual to download, access, study, and use this project free of charge for educational, personal, academic, and other non-commercial purposes, subject to the conditions of this license.
+2. Permission to Use
+Permission is hereby granted to any person or organization, including schools and universities, to download, access, study, and use this Project free of charge for educational, personal, academic, and other non-commercial purposes, subject to the conditions of this license.
 
 3. Modification and Development
-Users are permitted to modify, adapt, improve, and extend the source code for non-commmercial purposes.
+Users may modify, adapt, improve, extend, and combine the source code with other software for non-commercial purposes.
 Modifications may include bug fixes, additional features, interface improvements, documentation changes, and other educational enhancements.
 
 4. Redistribution and Sharing
-Users may redistribute the original project or modified versions free of charge, provided that they:
+Users may redistribute the original Project or modified versions free of charge, provided that they:
     * Give appropriate credit to the original Web-Honeypot project and its author.
     * Retain this license and the applicable copyright notices.
-    * Clearly identify significant modifications made to the original project.
+    * Clearly identify significant modifications made to the original Project.
     * Do not impose additional restrictions that prevent recipients from exercising the permissions granted by this license.
-    * Do not sell, commercially distribute, or use the project for commercial purposes without pior written permission from the copyright holder.
+    * Comply with Section 5 (Prohibition of Commercial Use).
 
 5. Prohibition of Commercial Use
-Commercial use of this project is prohibited without prior written permission from the copyright holder.
-Prohibited activites include, but are not limited to:
+Commercial use of this Project is prohibited without prior written permission from the copyright holder.
+Prohibited activities include, but are not limited to:
     * Selling the original or modified source code.
-    * Charging a fee for copies, downloads, or access to the project.
-    * Incorporating the project into a paid product or service.
-    * Licensing or sublicensing the project for commercial exploitation.
-    * Using the project as part of a commercial offering in a manner that exploits the rights granted under this license.
-Requests for commercial use may be submitted to the copyright holder for separate consideration and written authorization.
+    * Charging a fee for copies, downloads, or access to the Project itself.
+    * Incorporating the Project into a paid product or service.
+    * Licensing or sublicensing the Project for commercial exploitation.
+    * Using the Project as part of a commercial offering in a manner that exploits the rights granted under this license.
+Requests for commercial use may be sent to the copyright holder at [your email or GitHub profile] for separate consideration and written authorization.
 
 6. Attribution
-Any permitted redistribution, publication, or presentation of this project or a modified version must acknowledge the original Web-Honeypot project.
+Any permitted redistribution, publication, or presentation of this Project or a modified version must acknowledge the original Web-Honeypot project.
 Attribution should include, where reasonably practical, the project name, the original repository URL, and the name of the original author.
 Attribution does not imply endorsement by the original author.
 
 7. Educational and Security Disclaimer
-This project is provided for educational, academic research, and demonstration purposes only.
-Users are responsible for ensuring that their use of the project complies with applicable laws, regulations, institutional policies, and authorization requirements.
-The project must not be used to access, monitor, or interfere with systems or networks without approriate authorization.
+This Project is provided for educational, academic research, and demonstration purposes only.
+Users are responsible for ensuring that their use of the Project complies with applicable laws, regulations, institutional policies, and authorization requirements.
+The Project must not be used to access, monitor, or interfere with systems or networks without appropriate authorization.
 
-8. No Warranty
-This project is provided "as is", without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement, to the extent permitted by applicable law.
-The copyright holder does not guarantee that the project will be error-free, secure, or suitable for any particular use.
+8. Academic Integrity
+Nothing in this license permits any person to submit the Project, or a modified version of it, as their own work for assessment at any school, college, or university.
+Users must follow the academic integrity rules of their own institution and must cite this Project whenever they use or adapt it in assessed work.
 
-9. Limitation of Liability
-To the extent permitted by applicable law, the copyright holder shall not be liable for any claims, damages, losses, or other liabilities arising from the use of, inability to use, modification of, or redistribution of this project.
+9. Third-Party Components
+This Project uses third-party software, such as Flask and Chart.js, which remain under their own licenses. This license does not change those licenses.
+The MaxMind GeoLite2 database is not included in this Project. Users who obtain it must follow MaxMind's own terms.
 
-10. Termination
+10. No Warranty
+This Project is provided "as is", without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement, to the extent permitted by applicable law.
+The copyright holder does not guarantee that the Project will be error-free, secure, or suitable for any particular use.
+
+11. Limitation of Liability
+To the extent permitted by applicable law, the copyright holder shall not be liable for any claims, damages, losses, or other liabilities arising from the use of, inability to use, modification of, or redistribution of this Project.
+
+12. Termination
 Any permission granted under this license terminates automatically if a user materially violates its terms.
-Upon termination, the user must cease acitivites that are no longer authorized under this license, subject to any rights or remedies available under applicable law.
+Upon termination, the user must cease activities that are no longer authorized under this license, subject to any rights or remedies available under applicable law.
 
-11. Changes to this License
-The copyright holder may publish updated versions of this license for future distribution of the project.
-A revised license does not automatically change the terms application to copies previously distributed under an earlier version unless otherwise agreed or permitted by law.
+13. Changes to this License
+The copyright holder may publish updated versions of this license for future distribution of the Project.
+A revised license does not automatically change the terms applicable to copies previously distributed under an earlier version unless otherwise agreed or permitted by law.
 
-12. Acceptance
+14. Acceptance
 By exercising the permissions granted by this license, the user agrees to comply with its terms.
-If a user does not agree to these terms, they are not granted permission under this license to use, modify, or redistribute the project's copyrighted materials.
+If a user does not agree to these terms, they are not granted permission under this license to use, modify, or redistribute the Project's copyrighted materials.
