@@ -148,26 +148,6 @@ Each major folder contains its own notes where needed. See [`data/README.md`](da
 
 ---
 
-## [?] Limitations
-
-* Only sees attackers who find and touch the decoy.
-* Signature-based rules miss obfuscated payloads.
-* Most traffic is automated noise, not targeted attacks.
-* Skilled attackers may fingerprint the fake.
-* A local-only lab shows my own attacks, not real-world ones.
-* SQLite has no per-user permissions, so decoy and dashboard share on database file.
-
----
-
-## [?] Future Work
-
-* MITRE ATT&CK heatmap of observed techniques.
-* Alerts via email or Telegram.
-* Hash-chained logs for tamper evidence.
-* PostgresSQL with separate database roles.
-
----
-
 ## [~] How to Navigate
 
 * Start here for the project overview.
