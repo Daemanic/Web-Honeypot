@@ -81,12 +81,8 @@ ST5041CMD/
 │── tests/                    → Automated tests and the attack / benign payload lists
 │ │── results/                → Test output (summary files)
 │
-│── docker-compose.yml        → Starts decoy and dashboard together
 │── LICENSE                   → Terms and Conditions
-│── pytest.ini                → Pytest settings (test folder)
 │── README.md                 → Project overview
-│── requirements-dev.txt      → Extra packages for testing and development
-│── requirements.txt          → Packages needed to run the project
 ```
 
 Each major folder contains its own notes where needed. See [`data/README.md`](data/README.md) for what is stored there.
