@@ -9,7 +9,6 @@ A fake system that looks real and valuable, but exists only to be attacked.
 
 | Course | ST5041CMD - The Internet and Web Technologies |
 |---|---|
-| Lecturer | Abhishek Bimali |
 | Purpose | Capture, classify and visualise web attacks against an decoy site. |
 
 ---
